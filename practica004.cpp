@@ -1,3 +1,7 @@
+// Archivo: practica004.cpp
+/* Escibe un programa que le la entrada estandar de dos números y
+muestre en la salida estándar suma, resta, multiplicación y division.*/
+
 #include <iostream>
 using namespace std;
 
